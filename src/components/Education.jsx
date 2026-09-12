@@ -9,7 +9,7 @@ export default function Education() {
       <div className="edu-grid">
         {/* 학위 */}
         <Reveal as="article" className="card card-hover edu-degree" variant="up">
-          <p className="card-label">Degree</p>
+          <p className="card-label">Major</p>
           <h3>{degree.major}</h3>
           <p className="edu-school">
             {degree.school}
