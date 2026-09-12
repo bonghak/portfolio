@@ -7,7 +7,7 @@ export const experiences = [
     id: 'finance-it-ops',
     title: '금융 IT 시스템 운영',
     organization: '금융 IT', // TODO: 실제 기관/회사명
-    period: '2025 – 현재', // TODO
+    period: '2026 – Now', // TODO
     type: '시스템 운영',
     summary:
       '출입통제시스템을 운영하며 권한 관리, 상태 점검, 로그 기반 오류 분석을 담당. 이 과정에서 반복 업무를 발견해 AI 기반 이상 로그 탐지 도구를 구현했습니다.',
@@ -26,7 +26,7 @@ export const experiences = [
     id: 'post-office-intern',
     title: '우체국 청년인턴',
     organization: '우체국',
-    period: '2024', // TODO
+    period: '2025', // TODO
     type: '인턴',
     summary:
       '고객 응대와 행정 업무를 지원하며, 정해진 업무 절차에 따라 데이터와 문서를 정확하게 관리하는 경험을 쌓았습니다.',
