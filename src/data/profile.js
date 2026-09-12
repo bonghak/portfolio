@@ -3,7 +3,7 @@
  * ─ 이름, 연락처, 링크는 실제 값으로 교체하세요.
  */
 export const profile = {
-  name: '홍길동', // TODO: 실제 이름으로 변경
+  name: '오봉학', // TODO: 실제 이름으로 변경
   role: 'Developer · Data & AI',
   tagline: '업무의 문제를 데이터와 기술로 해결하는 개발자',
   intro:
@@ -41,10 +41,10 @@ export const profile = {
     ],
   },
 
-  // Contact 섹션 — 실제 값으로 교체하세요.
+
   contact: {
-    email: 'your.email@example.com', // TODO
-    github: 'https://github.com/your-id', // TODO
+    email: 'gkdlfhd5428@naver.com', // TODO
+    github: 'https://github.com/bonghak', // TODO
     linkedin: '', // 없으면 빈 문자열로 두면 표시되지 않습니다.
     blog: '', // 선택
     location: 'Seoul, Korea',
